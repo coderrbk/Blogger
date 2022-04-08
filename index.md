@@ -1,14 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到这个网页.jpg
 
-You can use the [editor on GitHub](https://github.com/coderrbk/Blogger/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 2022年1月4日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 今天打算写一个日常签到的机器人插件，其功能有：
 
 ​	获取用户ID
@@ -49,10 +42,7 @@ import datetime
 ```python
 dt1 = datetime.date.today()
 ```
-
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+到这里结束。
 
 ### Jekyll Themes
 
